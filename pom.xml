@@ -341,7 +341,7 @@
 							<goal>deploy</goal>
 						</goals>
 					</execution>
-				</executions>				
+				</executions>
 				<extensions>true</extensions>
 				<configuration>
 					<serverId>nexus</serverId>
